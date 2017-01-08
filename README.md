@@ -7,7 +7,9 @@
 ## Hur man importerar sina betyg från filmtipset till imdb
 
 - Installera scriptet: https://greasyfork.org/sv/scripts/11617-imdb-list-helper i Firefox. 
--. Ladda ner alla dina betyg från filmtipset som excel
+
+- Ladda ner alla dina betyg från filmtipset som excel
+
 - Kör 
 ```
 python3 ft_to_imdb.py <path/to/filmtipset_betyg.xls>

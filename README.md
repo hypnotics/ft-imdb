@@ -2,7 +2,7 @@
 
 ## Krav
 - Firefox med GreaseMonkey installerat
-- Python 3
+- Python 3 med xlrd (pip3 install xlrd)
 
 ## Hur man importerar sina betyg från filmtipset till imdb
 

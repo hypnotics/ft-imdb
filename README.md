@@ -13,6 +13,7 @@
 python3 ft_to_imdb.py <path/to/filmtipset_betyg.xls>
 ```
 Kopiera innehållet från filen ratings.txt till urklipp.
+
 4. Logga in på imdb och skapa en ny lista.
 Greasemonkey scriptet borde låta dig pasta in listan med betyg. Formatet är:
 
@@ -23,9 +24,9 @@ Greasemonkey scriptet borde låta dig pasta in listan med betyg. Formatet är:
 …
 ```
 
-Välj Import Mode: Ratings och tryck start. 
+5. Välj Import Mode: Ratings och tryck start. Vänta tills scriptet kört klart. 
 
-Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
+6. Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
 
 
 ## Kommentarer:

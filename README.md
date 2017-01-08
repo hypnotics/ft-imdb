@@ -6,15 +6,15 @@
 
 ## Hur man importerar sina betyg från filmtipset till imdb
 
-1. Installera scriptet: https://greasyfork.org/sv/scripts/11617-imdb-list-helper i Firefox. 
-2. Ladda ner alla dina betyg från filmtipset som excel
-3. Kör 
+- Installera scriptet: https://greasyfork.org/sv/scripts/11617-imdb-list-helper i Firefox. 
+-. Ladda ner alla dina betyg från filmtipset som excel
+- Kör 
 ```
 python3 ft_to_imdb.py <path/to/filmtipset_betyg.xls>
 ```
-Kopiera innehållet från filen ratings.txt till urklipp.
+- Kopiera innehållet från filen ratings.txt till urklipp.
 
-4. Logga in på imdb och skapa en ny lista.
+- Logga in på imdb och skapa en ny lista.
 Greasemonkey scriptet borde låta dig pasta in listan med betyg. Formatet är:
 
 ```
@@ -24,9 +24,9 @@ Greasemonkey scriptet borde låta dig pasta in listan med betyg. Formatet är:
 …
 ```
 
-5. Välj Import Mode: Ratings och tryck start. Vänta tills scriptet kört klart. 
+- Välj Import Mode: Ratings och tryck start. Vänta tills scriptet kört klart. 
 
-6. Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
+- Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
 
 
 ## Kommentarer:

@@ -2,7 +2,7 @@
 
 ## Krav
 - Firefox med GreaseMonkey installerat
-- Python
+- Python 3
 
 ## Hur man importerar sina betyg från filmtipset till imdb
 
@@ -27,10 +27,10 @@ Greasemonkey scriptet borde låta dig pasta in listan med betyg. Formatet är:
 
 Välj Import Mode: Ratings och tryck start. 
 
-10. Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
+11. Spara listan och du e klar. Filmerna läggs in i en lista och dina betyg kopieras till dina ratings :)
 
 
-## KOMMENTARER:
+## Kommentarer:
 De filmer som saknar imdb-nr i din filmtipset excel måste läggas in manuellt.
 https://contribute.imdb.com/updates?update=title&ref_=login
 
@@ -40,5 +40,5 @@ http://www.imdb.com/title/ttGAMMALT-NR/ för att hitta det aktuella imdb-numret.
 
 Om skriptet fastnar så bara kopiera imdb-numret för manuell hantering senare och tryck skip.
 
-## PROBLEM:
+## Problem:
 tt3630276 - Turist
